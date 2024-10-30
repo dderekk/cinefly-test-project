@@ -4,6 +4,13 @@ This project is a frontend implementation of a Blog Dashboard application. The s
 
 Authentication has been set up to give you a template of how to complete the rest of the functionality. The test is to guage your understanding of the logic and how to inject it into the UI, so the styling of the components is NOT a priority. As long as it works, you can make this as simple as you like, even using AI to generate the styles.
 
+## Running the project
+- To run the server, or the front end application. Move to the corresponding directory in your terminal and run the following command
+```bash
+npm start
+```
+
+
 ## Objective
 
 Your goal is to create a frontend interface for users to:
